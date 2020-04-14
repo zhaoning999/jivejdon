@@ -1,5 +1,6 @@
 Jivejdon
 =========================================
+[chinese design doc](https://www.jdon.com/ddd/jivejdon/1.html)
 
 Jivejdon is a full DDD application with Event Soucing/CQRS and clean architecture/Hexagonalarchitecture,  powered by [jdonframework](https://github.com/banq/jdonframework) ,running  for over ten years
 in: [https://www.jdon.com/forum](https://www.jdon.com/forum)
@@ -226,6 +227,6 @@ Document
 
 [chinese install doc](./doc/install_cn.txt)
 
-[chinese design doc](https://www.jdon.com/ddd/jivejdon/1.html)
+
 
 
